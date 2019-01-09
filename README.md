@@ -1,1 +1,1 @@
-# cmiles
+# Template for assignments
